@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hao Lan</h1>
-![1](https://github.com/lanhao0807/lanhao0807/assets/94854491/a9519f37-5cff-4ad5-ab54-2ab5c5419ad0)
+![1](https://github.com/lanhao0807/lanhao0807/assets/94854491/f26f3aa8-7d17-4956-974d-d84961f193a5)
 
 <h3 align="center">A passionate new grad looking for entry level software engineer & machine learning engineer positions.</h3>
 

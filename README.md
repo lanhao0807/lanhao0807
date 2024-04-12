@@ -1,5 +1,5 @@
-### Hi there 👋
-![1](https://github.com/lanhao0807/lanhao0807/assets/94854491/30e2a156-c52e-4f6e-9701-d599cff0c6de)
+
+![1](https://github.com/lanhao0807/lanhao0807/assets/94854491/bcc464b8-554f-4729-a64b-0f785db95bd3)
 
 
 <!--

@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Take care and enjoy this view](https://github.com/lanhao0807/lanhao0807/assets/94854491/502a65c9-d116-4df4-a7db-8780ed27bd33)
+![1](https://github.com/lanhao0807/lanhao0807/assets/94854491/30e2a156-c52e-4f6e-9701-d599cff0c6de)
+
 
 <!--
 **lanhao0807/lanhao0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

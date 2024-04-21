@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hao Lan<img src="https://github.com/lanhao0807/lanhao0807/assets/94854491/671fee1a-4bf3-4542-8ec6-f1656229e486" alt="Haolan Banner"></h1>
+<h1 align="center">Hi 👋, I'm Hao Lan</h1>
 
 <h3 align="center">A passionate new grad looking for entry level software engineer & machine learning engineer positions.</h3>
 
@@ -10,6 +10,7 @@
 <p align="left">
     <a href="https://twitter.com/@lan17596671" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lan17596671" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/hao-lan-938504238" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hao-lan-938504238" height="30" width="40" /></a>
+    <img src="https://github.com/lanhao0807/lanhao0807/assets/94854491/671fee1a-4bf3-4542-8ec6-f1656229e486" alt="Haolan Banner">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

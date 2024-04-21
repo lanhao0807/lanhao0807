@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/@lan17596671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lan17596671" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hao-lan-938504238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hao-lan-938504238" height="30" width="40" /></a>
-  ![haolan_banner](https://github.com/lanhao0807/lanhao0807/assets/94854491/ef112379-f464-41dd-bfd9-82fe17e6006f)
+  <img src="https://github.com/lanhao0807/lanhao0807/assets/94854491/ef112379-f464-41dd-bfd9-82fe17e6006f" alt="Haolan Banner">
 
 </p>
 

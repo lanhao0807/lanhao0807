@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate new grad looking for entry level software engineer & machine learning engineer positions.</h3>
 
-- 🌱 I’m currently learning **Django & React**
+- 🌱 I’m currently learning **TypeScript & React**
 
 - 📫 How to reach me **lanhao0807@gmail.com**
 
@@ -10,7 +10,7 @@
 <p align="left">
     <a href="https://twitter.com/@lan17596671" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lan17596671" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/hao-lan-938504238" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hao-lan-938504238" height="30" width="40" /></a>
-    <img src="https://github.com/lanhao0807/lanhao0807/assets/94854491/671fee1a-4bf3-4542-8ec6-f1656229e486" alt="Haolan Banner">
+    <img src="https://github.com/lanhao0807/lanhao0807/assets/94854491/671fee1a-4bf3-4542-8ec6-f1656229e486" alt="Haolan Banner" style="width = 100px; height=auto;">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

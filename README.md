@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate new grad looking for entry level software engineer & machine learning engineer positions.</h3>
 
-- 🌱 I’m currently learning **TypeScript & React**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **lanhao0807@gmail.com**
 
